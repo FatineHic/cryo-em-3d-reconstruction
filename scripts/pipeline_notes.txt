@@ -1,0 +1,44 @@
+CRYO-EM SPA PIPELINE NOTES
+
+1. Sample Preparation
+- Purify particles
+- Vitrify sample using plunge freezing
+- Maintain native structure in ice
+
+2. Data Acquisition
+- Use TEM at cryogenic temperature (-196°C)
+- Capture thousands of 2D projections
+- Optimize: defocus, contrast, electron dose
+
+3. Particle Picking
+- Manual or automatic picking
+- Extract particles into boxed images
+- Use masking to remove noise
+
+4. Alignment & Classification
+- Align particles to reference
+- Perform 2D classification
+- Perform 3D classification
+- Remove bad particles
+
+5. Image Processing
+- Bandpass filtering
+- Centering particles
+- Multivariate Statistical Analysis (MSA)
+- Hierarchical classification (HAC)
+
+6. Angular Assignment
+- Assign Euler angles
+- Validate using sinograms
+
+7. 3D Reconstruction
+- Generate initial 3D model
+- Refine with iterative reconstruction
+
+8. Refinement
+- Apply symmetry constraints
+- Improve resolution
+- Validate using reprojections
+
+9. Visualization
+- Use Chimera for 3D visualization
