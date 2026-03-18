@@ -1,0 +1,22 @@
+CRYO-EM RESULTS SUMMARY
+
+- Generated initial 3D reconstruction: 3d_0-1
+- Improved reconstruction with additional views: 3d_0-2
+
+Observations:
+- Better alignment in second reconstruction
+- Improved consistency with 2D projections
+- Reduced noise after filtering and classification
+
+Validation:
+- Reprojection comparison confirms angle accuracy
+- Sinograms show consistent angular transitions
+
+Conclusion:
+- Iterative refinement improves reconstruction quality
+- Final model suitable for further structural analysis
+
+Tools Used:
+- Cryo-EM pipeline
+- Image processing tools
+- Chimera (visualization)
