@@ -1,4 +1,3 @@
-# cryo-em-3d-reconstruction
 # 🔬 Cryo-EM Single Particle Analysis (SPA) Pipeline
 
 ## 📌 Project Overview
