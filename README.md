@@ -102,14 +102,18 @@ This project demonstrates a full **Single Particle Analysis (SPA)** workflow in 
 ## 📂 Project Structure
 
 ```
-/data
-/scripts
-/results
-/figures
-README.md
+cryo-em-project/
+│
+├── README.md
+├── report/
+│   └── cryo_em_report.pdf
+├── scripts/
+│   └── pipeline_notes.txt
+├── results/
+│   └── results_summary.txt
+├── figures/
+│   └──  screenshots 
 ```
-
----
 
 ## ✅ Conclusion
 
